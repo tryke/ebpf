@@ -1,5 +1,6 @@
 # eBPF Archictecture Plugin for Binary Ninja
 Author: Ryan Jordan (@tryke)
+
 Version: 0.1
 
 ## Introduction
